@@ -11,11 +11,4 @@
 
 - ⚡ Fun fact **I think I am a little addictive to technology stuff**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/lê khoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lê khoa" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackpieking&show_icons=true&locale=en&layout=compact" alt="jackpieking" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackpieking&show_icons=true&locale=en" alt="jackpieking" /></p>
