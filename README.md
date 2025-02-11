@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">A passionate full-stack web developer from Viet Nam 😎😎</h3>
+<h3 align="center">A passionate developer from Viet Nam</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackpieking&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-- 🌱 I’m currently learning **Vue**
+- 👨‍💻 All of my projects are available at [https://github.com/Jackpieking?tab=repositories](https://github.com/Jackpieking?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jackpieking](https://github.com/Jackpieking)
-
-- 💬 Ask me about **Asp.Net Core**
+- 💬 Ask me about **Asp Net Core, Server, DevOps Stuff**
 
 - 📫 How to reach me **ledinhdangkhoa10a9@gmail.com**
 
-- ⚡ Fun fact **I think I am a little addictive to technology stuff**
+<h3 align="left">Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackpieking&show_icons=true&locale=en" alt="jackpieking" /></p>
+<div align="center">
+  <br> <img src="https://github-readme-stats.vercel.app/api?username=jackpieking&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" width="40%" />  
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackpieking&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" width="40%" />
+  <br>
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackpieking&theme=gruvbox" alt="Profile Details" width="70%" />
+</div>
