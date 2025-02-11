@@ -1,21 +1,39 @@
-<h1 align="center">Hi 👋, I'm Khoa</h1>
-<h3 align="center">A passionate developer from Viet Nam</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackpieking&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+# Hi there, I'm Jackpieking 👋
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jackpieking?tab=repositories](https://github.com/Jackpieking?tab=repositories)
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and more. Let's connect and collaborate!
 
-- 💬 Ask me about **Asp Net Core, Server, DevOps Stuff**
+## 🚀 About Me
 
-- 📫 How to reach me **ledinhdangkhoa10a9@gmail.com**
+- 💻 I love coding in multiple languages including JavaScript, C#.
+- 🔭 I’m currently working on some exciting open-source projects.
+- 🌱 I’m always learning new technologies and improving my skills.
+- 👯 I’m looking to collaborate on innovative projects.
+- 🤔 I’m open to discussing any ideas or feedback you may have.
 
-<h3 align="left">Stats:</h3>
+## 📬 Connect with Me
 
-<div align="center">
-  <br> <img src="https://github-readme-stats.vercel.app/api?username=jackpieking&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" width="40%" />  
-  <br>
+- [Email](mailto:ledinhdangkhoa10a9@gmail.com)
+- [Discord](https://discordapp.com/users/581035231155453979)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jackpieking&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Top Languages" width="40%" />
-  <br>
+## 🛠️ Technologies & Tools
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackpieking&theme=gruvbox" alt="Profile Details" width="70%" />
-</div>
+- **Languages:** C#, JavaScript, Sql, Java
+- **Frameworks & Libraries:** Asp Net Core, ExpressJs, Vue, Spring, Bootstrap, Ant Design, Quasar
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Platforms:** Git, Docker, Bare-metal server, Jenkins, Gituhb Action
+
+## 📈 GitHub Stats
+
+![Jackpieking's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jackpieking&show_icons=true&theme=gruvbox)
+
+## 🔥 Profile Summary
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jackpieking&theme=gruvbox" alt="Profile Details" width="70%" />
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Jackpieking&theme=gruvbox)
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackpieking&layout=compact&theme=gruvbox)
