@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🚀 About Me
 
-- 💻 I love coding in multiple languages including JavaScript, C#.
-- 🔭 I’m currently working on some exciting open-source projects.
+- 💻 I love coding in multiple languages including JavaScript, TypeScript, C#.
+- 🔭 I’m currently working on this open sourse [Asp Net Core VSA template](https://github.com/Jackpieking/ASPNET_CORE_VSA_Template).
 - 🌱 I’m always learning new technologies and improving my skills.
 - 👯 I’m looking to collaborate on innovative projects.
 - 🤔 I’m open to discussing any ideas or feedback you may have.
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C#, JavaScript, Sql, Java
+- **Languages:** C#, JavaScript, TypeScript, SQL, Java
 - **Frameworks & Libraries:** Asp Net Core, ExpressJs, Vue, Spring, Bootstrap, Ant Design, Quasar
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, Docker, Bare-metal server, Jenkins, Gituhb Action
