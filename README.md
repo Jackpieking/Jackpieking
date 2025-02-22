@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jackpieking&label=Profile%20views&color=0e75b6&style=flat" alt="jackpieking" /> </p>
+
 # Hi there, I'm Jackpieking 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here, you'll find a collection of my projects, contributions, and more. Let's connect and collaborate!
