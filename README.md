@@ -19,10 +19,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** C#, JavaScript, TypeScript, SQL, Java
-- **Frameworks & Libraries:** Asp Net Core, ExpressJs, Vue, Spring, Bootstrap, Ant Design, Quasar
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Bare-metal server, Jenkins, Gituhb Action
+- **Languages:** C#, JavaScript, TypeScript, SQL
+- **Front-End Development:** React, NextJS, Redux, Antd, StyleX, Vite, Tailwind
+- **Back-End Development:** ASP.NET Core, SignalR, Entity Framework Core, Dapper, FastEndpoints, MediatR, Authentication (Cookie, JWT, OAuth), Authorization, FusionCache, In-Memory Cache, Quartz, Hangfire, Mapster, AutoMapper
+- **Testing:** Selenium, xUnit, Shouldly
+- **Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, Redis, Typesense, PgBouncer
+- **Tools & Platforms:** Git, Jenkins, GitHub Actions, Docker, YARP, Nginx, HAProxy, Cloudflare, On-Premise server, Vercel
 
 ## 📈 GitHub Stats
 
